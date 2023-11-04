@@ -17,4 +17,6 @@ Step 3: Enjoy! Launch Script 1.vbs to start the script
 
 If you want the script to launch at startup then either make a shortcut to shell:startup or make a task in Task Scheduler
 
+![Mouse Limiter Example](https://github.com/NobleGaming/Citra-Mouse-Limiter/assets/52421874/ceb1007e-d42b-4f2f-b001-5dff4aee6d59)
+
 Modified from this AHK script: https://controlc.com/59125ccf
