@@ -15,7 +15,7 @@ Step 2: Rename your desired resolution ahk file to "CitraLimitMouse.ahk". Defaul
 
 Step 3: Enjoy! Launch Script 1.vbs to start the script
 
-If you want the script to launch at startup then either make a shortcut to shell:startup or make a task in Task Scheduler
+If you want the script to launch at startup then either make a shortcut to shell:startup or create a task in Task Scheduler to start on login.
 
 ![Mouse Limiter Example](https://github.com/NobleGaming/Citra-Mouse-Limiter/assets/52421874/ceb1007e-d42b-4f2f-b001-5dff4aee6d59)
 
