@@ -8,8 +8,7 @@ AutoHotKey: https://www.autohotkey.com/
 Optional:
 MouseSC: https://www.sordum.org/downloads/?mouse-settings-changer
 
-Step 1 (Optional): Put "MouseSC_x64.exe" in the same folder as the scripts. Change the "?" in the line "MouseSC_x64.exe /Speed:?" in Batch 1 & 2 if you want your cursor speed changed.
-Batch 1 is when Citra isn't launched and 2 is when Citra is launched.
+Step 1 (Optional): Put "MouseSC_x64.exe" in the same folder as the scripts. Change the "?" in the line "MouseSC_x64.exe /Speed:?" in CitraMouseLimit.bat if you want your cursor speed changed.
 
 Step 2: Rename your desired resolution ahk file to "CitraLimitMouse.ahk". Default is 1080p.
 
