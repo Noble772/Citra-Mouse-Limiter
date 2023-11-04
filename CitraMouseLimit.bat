@@ -1,6 +1,7 @@
 @echo off
 :start
 pushd %~dp0
+:: Change "?" for Mouse Speed when Citra isn't Open
 MouseSC_x64.exe /Speed:?
 taskkill /IM AutoHotkeyU64.exe
 :scanforcitra
@@ -12,6 +13,7 @@ if errorlevel 1 (
 		goto citralaunched
 )
 :citralaunched
+:: Change "?" for Mouse Speed when Citra is Launched
 MouseSC_x64.exe /Speed:?
 TIMEOUT 2
 start "%~dp0" "CitraLimitMouse.ahk"
