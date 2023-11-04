@@ -16,3 +16,5 @@ Step 2: Rename your desired resolution ahk file to "CitraLimitMouse.ahk". Defaul
 Step 3: Enjoy! Launch Script 1.vbs to start the script
 
 If you want the script to launch at startup then either make a shortcut to shell:startup or make a task in Task Scheduler
+
+Modified from this AHK script: https://controlc.com/59125ccf
