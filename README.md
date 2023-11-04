@@ -2,6 +2,7 @@
 A combination of VBS, Batch, and AutoHotKey Scripts that will limit your mouse cursor to the secondary touchscreen when Citra launches.
 
 Requirements:
+
 AutoHotKey: https://www.autohotkey.com/
 Optional:
 MouseSC: https://www.sordum.org/downloads/?mouse-settings-changer
