@@ -12,7 +12,7 @@ Step 1 (Optional): Put "MouseSC_x64.exe" in the same folder as the scripts. Chan
 
 Step 2: Rename your desired resolution ahk file to "CitraLimitMouse.ahk". Default is 1080p.
 
-Step 3: Enjoy! Launch Script 1.vbs to start the script
+Step 3: Enjoy! CitraMouseLimit.bat or LaunchCMLBatchSilent.vbs to start the script
 
 If you want the script to launch at startup then either make a shortcut to shell:startup or create a task in Task Scheduler to start on login.
 
